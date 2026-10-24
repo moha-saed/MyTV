@@ -1,0 +1,213 @@
+#EXTM3U
+
+# ==================== PALESTINE ====================
+#EXTINF:-1 tvg-name="Palestine TV" group-title="فلسطين",Palestine TV
+https://stream.palestinetv.ps/live/pbc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Palestine Live" group-title="فلسطين",Palestine Live
+https://stream.palestinetv.ps/live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Maan TV" group-title="فلسطين",Maan TV
+https://live.maannews.net/hls/live.m3u8
+
+# ==================== JORDAN ====================
+#EXTINF:-1 tvg-name="Jordan TV" group-title="الأردن",Jordan TV
+https://jrtv-live.ercdn.net/jrtv/jrtv.m3u8
+
+#EXTINF:-1 tvg-name="Roya TV" group-title="الأردن",Roya TV
+https://roya.ercdn.net/roya/live.m3u8
+
+#EXTINF:-1 tvg-name="Al Mamlaka TV" group-title="الأردن",Al Mamlaka TV
+https://almamlaka-live.ercdn.net/almamlaka/almamlaka.m3u8
+
+# ==================== SYRIA ====================
+#EXTINF:-1 tvg-name="Syrian Satellite Channel" group-title="سوريا",الفضائية السورية
+https://rtv-live.ercdn.net/rtv/syriasat.m3u8
+
+#EXTINF:-1 tvg-name="Syria News" group-title="سوريا",الإخبارية السورية
+https://rtv-live.ercdn.net/rtv/ikhbariya.m3u8
+
+#EXTINF:-1 tvg-name="Drama Syrian" group-title="سوريا",دراما السورية
+https://rtv-live.ercdn.net/rtv/drama.m3u8
+
+#EXTINF:-1 tvg-name="Syria TV" group-title="سوريا",تلفزيون سوريا
+https://syriatv-live.ercdn.net/syriatv/live.m3u8
+
+# ==================== LEBANON ====================
+#EXTINF:-1 tvg-name="LBCI Lebanon" group-title="لبنان",LBCI اللبنانية
+https://lbci-live.ercdn.net/lbcilive/live.m3u8
+
+#EXTINF:-1 tvg-name="MTV Lebanon" group-title="لبنان",MTV اللبنانية
+https://mtv-live.ercdn.net/mtvlive/live.m3u8
+
+#EXTINF:-1 tvg-name="Al Jadeed" group-title="لبنان",قناة الجديد
+https://aljadeed-live.ercdn.net/aljadeed/live.m3u8
+
+#EXTINF:-1 tvg-name="Tele Liban" group-title="لبنان",تلفزيون لبنان
+https://teleliban-live.ercdn.net/teleliban/live.m3u8
+
+# ==================== IRAQ ====================
+#EXTINF:-1 tvg-name="Al Iraqiya" group-title="العراق",قناة العراقية الإخبارية
+https://imn-live.ercdn.net/imn/iraqiya.m3u8
+
+#EXTINF:-1 tvg-name="Al Iraqiya Sports" group-title="العراق",العراقية الرياضية
+https://imn-live.ercdn.net/imn/iraqiyasports.m3u8
+
+#EXTINF:-1 tvg-name="Al Sharqiya" group-title="العراق",قناة الشرقية
+https://sharqiya-live.ercdn.net/sharqiya/live.m3u8
+
+#EXTINF:-1 tvg-name="Al Sumaria" group-title="العراق",قناة السومرية
+https://alsumaria-live.ercdn.net/alsumaria/live.m3u8
+
+#EXTINF:-1 tvg-name="UTV Iraq" group-title="العراق",قناة UTV العراق
+https://utviraq-live.ercdn.net/utv/live.m3u8
+
+# ==================== UAE ====================
+#EXTINF:-1 tvg-name="Dubai TV" group-title="الإمارات",تلفزيون دبي
+https://dmi-dubaitv.ercdn.net/dubaitv/dubaitv.m3u8
+
+#EXTINF:-1 tvg-name="Sama Dubai" group-title="الإمارات",سما دبي
+https://dmi-samadubai.ercdn.net/samadubai/samadubai.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 1" group-title="الإمارات",دبي الرياضية 1
+https://dmi-dubaisports1.ercdn.net/dubaisports1/dubaisports1.m3u8
+
+#EXTINF:-1 tvg-name="Sharjah TV" group-title="الإمارات",تلفزيون الشارقة
+https://sba-sharjahtv.ercdn.net/sharjahtv/sharjahtv.m3u8
+
+#EXTINF:-1 tvg-name="Sharjah Sports" group-title="الإمارات",الشارقة الرياضية
+https://sba-sharjahsports.ercdn.net/sharjahsports/sharjahsports.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi TV" group-title="الإمارات",أبوظبي
+https://admdn-live.ercdn.net/adtv/adtv.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1" group-title="الإمارات",أبوظبي الرياضية 1
+https://admdn-live.ercdn.net/adsports1/adsports1.m3u8
+
+# ==================== SAUDI ARABIA ====================
+#EXTINF:-1 tvg-name="Saudi TV 1" group-title="السعودية",قناة السعودية الأولى
+https://sba-sauditv.ercdn.net/sauditv/sauditv.m3u8
+
+#EXTINF:-1 tvg-name="Al Ekhbariya" group-title="السعودية",الإخبارية السعودية
+https://sba-ekhbariya.ercdn.net/ekhbariya/ekhbariya.m3u8
+
+#EXTINF:-1 tvg-name="Quran TV" group-title="السعودية",قناة القرآن الكريم
+https://sba-qurantv.ercdn.net/qurantv/qurantv.m3u8
+
+#EXTINF:-1 tvg-name="Sunnah TV" group-title="السعودية",قناة السنة النبوية
+https://sba-sunnahtv.ercdn.net/sunnahtv/sunnahtv.m3u8
+
+# ==================== KUWAIT, QATAR & OMAN ====================
+#EXTINF:-1 tvg-name="Kuwait TV 1" group-title="الخليج",تلفزيون الكويت 1
+https://media.gov.kw/live/ktv1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kuwait Sports" group-title="الخليج",الكويت الرياضية
+https://media.gov.kw/live/ktvsp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Qatar TV" group-title="الخليج",تلفزيون قطر
+https://live.qtv.qa/hls/qtv.m3u8
+
+#EXTINF:-1 tvg-name="Al Kass 1" group-title="الخليج",قناة الكأس 1 المفتوحة
+https://alkass-live.ercdn.net/alkass1/alkass1.m3u8
+
+#EXTINF:-1 tvg-name="Oman TV" group-title="الخليج",تلفزيون سلطنة عمان
+https://partw2.omantv.om/live/omantv.m3u8
+
+# ==================== EGYPT ====================
+#EXTINF:-1 tvg-name="Al Oula" group-title="مصر",القناة الأولى المصرية
+https://stream.maspero.eg/hls/aloula.m3u8
+
+#EXTINF:-1 tvg-name="Al Thanya" group-title="مصر",القناة الثانية المصرية
+https://stream.maspero.eg/hls/althanya.m3u8
+
+#EXTINF:-1 tvg-name="Nile News" group-title="مصر",قناة النيل للأخبار
+https://stream.maspero.eg/hls/nilenews.m3u8
+
+#EXTINF:-1 tvg-name="Nile Drama" group-title="مصر",النيل للدراما
+https://stream.maspero.eg/hls/niledrama.m3u8
+
+# ==================== ARABIC NEWS ====================
+#EXTINF:-1 tvg-name="Al Jazeera" group-title="أخبار عربية",الجزيرة الإخبارية
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera Mubasher" group-title="أخبار عربية",الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Arabiya" group-title="أخبار عربية",العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Hadath" group-title="أخبار عربية",العربية الحدة
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sky News Arabia" group-title="أخبار عربية",سكاي نيوز عربية
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+# ==================== KIDS (قنوات الأطفال) ====================
+#EXTINF:-1 tvg-name="Spacetoon" group-title="أطفال",سبيستون (Spacetoon)
+https://spacetoon-live.ercdn.net/spacetoon/spacetoon.m3u8
+
+#EXTINF:-1 tvg-name="Majid TV" group-title="أطفال",ماجد للأطفال (Majid TV)
+https://admdn-live.ercdn.net/majid/majid.m3u8
+
+#EXTINF:-1 tvg-name="Jeem TV" group-title="أطفال",تلفزيون ج (Jeem TV)
+https://live-hls-web-aje.getaj.net/JEEM/01.m3u8
+
+#EXTINF:-1 tvg-name="Baraem" group-title="أطفال",براعم (Baraem)
+https://live-hls-web-aje.getaj.net/BAR/01.m3u8
+
+#EXTINF:-1 tvg-name="Rawdah TV" group-title="أطفال",قناة روضة للأطفال
+https://sba-rawdahtv.ercdn.net/rawdahtv/rawdahtv.m3u8
+
+#EXTINF:-1 tvg-name="Taha TV" group-title="أطفال",قناة طه للأطفال
+https://stream.tahatv.com/hls/live.m3u8
+
+# ==================== TURKEY ====================
+#EXTINF:-1 tvg-name="TRT 1" group-title="تركيا",TRT 1 (القناة العامة والمسلسلات)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Haber" group-title="تركيا",TRT Haber (الإخبارية)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Belgesel" group-title="تركيا",TRT Belgesel (الوثائقية)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Spor" group-title="تركيا",TRT Spor (الرياضية)
+https://tv-trtspoor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT World" group-title="تركيا",TRT World (إنجليزي)
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Arabic" group-title="تركيا",TRT العربية
+https://tv-trtarabic.medya.trt.com.tr/master.m3u8
+
+# ==================== USA ====================
+#EXTINF:-1 tvg-name="CBS News" group-title="أمريكا",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f13459489432657d42cf38e/master.m3u8
+
+#EXTINF:-1 tvg-name="ABC News Live" group-title="أمريكا",ABC News Live
+https://content.uplynk.com/channel/3324f2467c41432981105030dac22c9e.m3u8
+
+#EXTINF:-1 tvg-name="NBC News NOW" group-title="أمريكا",NBC News NOW
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlay/master.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV" group-title="أمريكا",NASA TV (علوم وفضاء)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg US" group-title="أمريكا",Bloomberg TV (اقتصاد)
+https://liveprodupmx.global.ssl.fastly.net/us/justin/bltv_dvr.m3u8
+
+#EXTINF:-1 tvg-name="Weather Channel" group-title="أمريكا",Local Now (طقس وأخبار)
+https://weather-localnow-stitch.tubi.video/playlist.m3u8
+
+# ==================== UK ====================
+#EXTINF:-1 tvg-name="BBC News" group-title="بريطانيا",BBC News UK
+https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-name="Sky News UK" group-title="بريطانيا",Sky News UK
+https://skynews-live.skynews.com/hls/skynews_main.m3u8
+
+#EXTINF:-1 tvg-name="GB News" group-title="بريطانيا",GB News
+https://stream.gbnews.uk/live/master.m3u8
+
+#EXTINF:-1 tvg-name="Reuters Live" group-title="بريطانيا",Reuters TV
+https://reuters-reutersnow-1-gb.samsung.wurl.tv/playlist.m3u8
