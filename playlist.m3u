@@ -1,279 +1,348 @@
 #EXTM3U
 
-# ==================== PALESTINE ====================
+# ==================== PALESTINE (فلسطين) ====================
 #EXTINF:-1 tvg-name="Palestine TV" group-title="فلسطين",Palestine TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.palestinetv.ps/live/pbc/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Palestine Live" group-title="فلسطين",Palestine Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.palestinetv.ps/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Maan TV" group-title="فلسطين",Maan TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.maannews.net/hls/live.m3u8
 
-# ==================== JORDAN ====================
-#EXTINF:-1 tvg-name="Jordan TV" group-title="الأردن",Jordan TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Al Quds Educational" group-title="فلسطين",قناة القدس التعليمية
+https://stream.qou.edu/live/qou/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Musawa TV" group-title="فلسطين",قناة مساواة الفضائية
+https://stream.palestinetv.ps/live/musawa/playlist.m3u8
+
+# ==================== JORDAN (الأردن) ====================
+#EXTINF:-1 tvg-name="Jordan TV" group-title="الأردن",التلفزيون الأردني الرسمي
 https://jrtv-live.ercdn.net/jrtv/jrtv.m3u8
 
-#EXTINF:-1 tvg-name="Roya TV" group-title="الأردن",Roya TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Jordan Sports" group-title="الأردن",الأردنية الرياضية
+https://jrtv-live.ercdn.net/sports/sports.m3u8
+
+#EXTINF:-1 tvg-name="Roya TV" group-title="الأردن",قناة رؤيا (Roya TV)
 https://roya.ercdn.net/roya/live.m3u8
 
-#EXTINF:-1 tvg-name="Al Mamlaka TV" group-title="الأردن",Al Mamlaka TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Al Mamlaka TV" group-title="الأردن",قناة المملكة الإخبارية
 https://almamlaka-live.ercdn.net/almamlaka/almamlaka.m3u8
 
-# ==================== SYRIA ====================
+#EXTINF:-1 tvg-name="Aman TV" group-title="الأردن",قناة عمان الفضائية
+https://ammantv-live.ercdn.net/ammantv/live.m3u8
+
+# ==================== SYRIA (سوريا) ====================
 #EXTINF:-1 tvg-name="Syrian Satellite Channel" group-title="سوريا",الفضائية السورية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rtv-live.ercdn.net/rtv/syriasat.m3u8
 
 #EXTINF:-1 tvg-name="Syria News" group-title="سوريا",الإخبارية السورية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rtv-live.ercdn.net/rtv/ikhbariya.m3u8
 
 #EXTINF:-1 tvg-name="Drama Syrian" group-title="سوريا",دراما السورية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rtv-live.ercdn.net/rtv/drama.m3u8
 
 #EXTINF:-1 tvg-name="Syria TV" group-title="سوريا",تلفزيون سوريا
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://syriatv-live.ercdn.net/syriatv/live.m3u8
 
-# ==================== LEBANON ====================
+#EXTINF:-1 tvg-name="Nour El Sham" group-title="سوريا",قناة نور الشام
+https://rtv-live.ercdn.net/rtv/nouralsham.m3u8
+
+# ==================== LEBANON (لبنان) ====================
+#EXTINF:-1 tvg-name="Tele Liban" group-title="لبنان",تلفزيون لبنان
+https://teleliban-live.ercdn.net/teleliban/live.m3u8
+
 #EXTINF:-1 tvg-name="LBCI Lebanon" group-title="لبنان",LBCI اللبنانية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://lbci-live.ercdn.net/lbcilive/live.m3u8
 
 #EXTINF:-1 tvg-name="MTV Lebanon" group-title="لبنان",MTV اللبنانية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mtv-live.ercdn.net/mtvlive/live.m3u8
 
 #EXTINF:-1 tvg-name="Al Jadeed" group-title="لبنان",قناة الجديد
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://aljadeed-live.ercdn.net/aljadeed/live.m3u8
 
-#EXTINF:-1 tvg-name="Tele Liban" group-title="لبنان",تلفزيون لبنان
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://teleliban-live.ercdn.net/teleliban/live.m3u8
+#EXTINF:-1 tvg-name="NBN Lebanon" group-title="لبنان",شبكة الوطنية للإرسال NBN
+https://nbn-live.ercdn.net/nbn/live.m3u8
 
-# ==================== IRAQ ====================
-#EXTINF:-1 tvg-name="Al Iraqiya" group-title="العراق",قناة العراقية الإخبارية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+# ==================== IRAQ (العراق) ====================
+#EXTINF:-1 tvg-name="Al Iraqiya" group-title="العراق",العراقية الإخبارية
 https://imn-live.ercdn.net/imn/iraqiya.m3u8
 
+#EXTINF:-1 tvg-name="Al Iraqiya Public" group-title="العراق",العراقية العامة
+https://imn-live.ercdn.net/imn/iraqiyageneral.m3u8
+
 #EXTINF:-1 tvg-name="Al Iraqiya Sports" group-title="العراق",العراقية الرياضية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://imn-live.ercdn.net/imn/iraqiyasports.m3u8
 
+#EXTINF:-1 tvg-name="Al Iraqiya Documentary" group-title="العراق",العراقية الوثائقية
+https://imn-live.ercdn.net/imn/iraqiyadoc.m3u8
+
 #EXTINF:-1 tvg-name="Al Sharqiya" group-title="العراق",قناة الشرقية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://sharqiya-live.ercdn.net/sharqiya/live.m3u8
 
+#EXTINF:-1 tvg-name="Al Sharqiya News" group-title="العراق",الشرقية نيوز
+https://sharqiya-live.ercdn.net/sharqiyanews/live.m3u8
+
 #EXTINF:-1 tvg-name="Al Sumaria" group-title="العراق",قناة السومرية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alsumaria-live.ercdn.net/alsumaria/live.m3u8
 
-#EXTINF:-1 tvg-name="UTV Iraq" group-title="العراق",قناة UTV العراق
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="UTV Iraq" group-title="العراق",قناة UTV العراقية
 https://utviraq-live.ercdn.net/utv/live.m3u8
 
-# ==================== UAE ====================
+#EXTINF:-1 tvg-name="Kurdistan 24" group-title="العراق",كردستان 24 (عربي)
+https://k24-live.ercdn.net/k24arabic/live.m3u8
+
+# ==================== UAE (الإمارات) ====================
 #EXTINF:-1 tvg-name="Dubai TV" group-title="الإمارات",تلفزيون دبي
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dmi-dubaitv.ercdn.net/dubaitv/dubaitv.m3u8
 
+#EXTINF:-1 tvg-name="Dubai One" group-title="الإمارات",Dubai One (أفلام وبرامج بالإنجليزية)
+https://dmi-dubaione.ercdn.net/dubaione/dubaione.m3u8
+
 #EXTINF:-1 tvg-name="Sama Dubai" group-title="الإمارات",سما دبي
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dmi-samadubai.ercdn.net/samadubai/samadubai.m3u8
 
 #EXTINF:-1 tvg-name="Dubai Sports 1" group-title="الإمارات",دبي الرياضية 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dmi-dubaisports1.ercdn.net/dubaisports1/dubaisports1.m3u8
 
+#EXTINF:-1 tvg-name="Dubai Sports 2" group-title="الإمارات",دبي الرياضية 2
+https://dmi-dubaisports2.ercdn.net/dubaisports2/dubaisports2.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Racing" group-title="الإمارات",دبي ريسينج
+https://dmi-dubairacing.ercdn.net/dubairacing/dubairacing.m3u8
+
 #EXTINF:-1 tvg-name="Sharjah TV" group-title="الإمارات",تلفزيون الشارقة
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://sba-sharjahtv.ercdn.net/sharjahtv/sharjahtv.m3u8
 
 #EXTINF:-1 tvg-name="Sharjah Sports" group-title="الإمارات",الشارقة الرياضية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://sba-sharjahsports.ercdn.net/sharjahsports/sharjahsports.m3u8
 
-#EXTINF:-1 tvg-name="Abu Dhabi TV" group-title="الإمارات",أبوظبي
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Sharjah 24" group-title="الإمارات",الشارقة 24 الإخبارية
+https://sba-sharjah24.ercdn.net/sharjah24/sharjah24.m3u8
+
+#EXTINF:-1 tvg-name="Al Wousta" group-title="الإمارات",قناة الوسطى من الذيد
+https://sba-alwousta.ercdn.net/alwousta/alwousta.m3u8
+
+#EXTINF:-1 tvg-name="Al Sharqiya Kalba" group-title="الإمارات",الشرقية من كلباء
+https://sba-alsharqiya.ercdn.net/alsharqiya/alsharqiya.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi TV" group-title="الإمارات",قناة أبوظبي
 https://admdn-live.ercdn.net/adtv/adtv.m3u8
 
+#EXTINF:-1 tvg-name="Emarat TV" group-title="الإمارات",قناة الإمارات
+https://admdn-live.ercdn.net/emarattv/emarattv.m3u8
+
 #EXTINF:-1 tvg-name="Abu Dhabi Sports 1" group-title="الإمارات",أبوظبي الرياضية 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://admdn-live.ercdn.net/adsports1/adsports1.m3u8
 
-# ==================== SAUDI ARABIA ====================
-#EXTINF:-1 tvg-name="Saudi TV 1" group-title="السعودية",قناة السعودية الأولى
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2" group-title="الإمارات",أبوظبي الرياضية 2
+https://admdn-live.ercdn.net/adsports2/adsports2.m3u8
+
+#EXTINF:-1 tvg-name="YAS Sports" group-title="الإمارات",قناة ياس الرياضية
+https://admdn-live.ercdn.net/yastv/yastv.m3u8
+
+# ==================== SAUDI ARABIA (السعودية) ====================
+#EXTINF:-1 tvg-name="Saudi TV 1" group-title="السعودية",القناة السعودية الأولى
 https://sba-sauditv.ercdn.net/sauditv/sauditv.m3u8
 
-#EXTINF:-1 tvg-name="Al Ekhbariya" group-title="السعودية",الإخبارية السعودية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Al Ekhbariya" group-title="السعودية",قناة الإخبارية السعودية
 https://sba-ekhbariya.ercdn.net/ekhbariya/ekhbariya.m3u8
 
-#EXTINF:-1 tvg-name="Quran TV" group-title="السعودية",قناة القرآن الكريم
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="SBC" group-title="السعودية",قناة SBC الترفيهية
+https://sba-sbc.ercdn.net/sbc/sbc.m3u8
+
+#EXTINF:-1 tvg-name="Quran TV" group-title="السعودية",قناة القرآن الكريم (مكة المكرمة)
 https://sba-qurantv.ercdn.net/qurantv/qurantv.m3u8
 
-#EXTINF:-1 tvg-name="Sunnah TV" group-title="السعودية",قناة السنة النبوية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Sunnah TV" group-title="السعودية",قناة السنة النبوية (المدينة المنورة)
 https://sba-sunnahtv.ercdn.net/sunnahtv/sunnahtv.m3u8
 
-# ==================== KUWAIT, QATAR & OMAN ====================
-#EXTINF:-1 tvg-name="Kuwait TV 1" group-title="الخليج",تلفزيون الكويت 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Thaqafeya" group-title="السعودية",القناة الثقافية السعودية
+https://sba-thaqafeya.ercdn.net/thaqafeya/thaqafeya.m3u8
+
+# ==================== GULF (الكويت، قطر، عمان، البحرين) ====================
+#EXTINF:-1 tvg-name="Kuwait TV 1" group-title="الخليج العربي",تلفزيون دولة الكويت 1
 https://media.gov.kw/live/ktv1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Kuwait Sports" group-title="الخليج",الكويت الرياضية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Kuwait TV 2" group-title="الخليج العربي",تلفزيون الكويت 2
+https://media.gov.kw/live/ktv2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kuwait Sports" group-title="الخليج العربي",الكويت الرياضية
 https://media.gov.kw/live/ktvsp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Qatar TV" group-title="الخليج",تلفزيون قطر
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Kuwait Sports 2" group-title="الخليج العربي",الكويت الرياضية بلس
+https://media.gov.kw/live/ktvspplus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Qurain" group-title="الخليج العربي",قناة القرين التراثية
+https://media.gov.kw/live/qurain/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Qatar TV" group-title="الخليج العربي",تلفزيون قطر الرسمي
 https://live.qtv.qa/hls/qtv.m3u8
 
-#EXTINF:-1 tvg-name="Al Kass 1" group-title="الخليج",قناة الكأس 1 المفتوحة
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Al Kass 1" group-title="الخليج العربي",قناة الكأس 1 المفتوحة
 https://alkass-live.ercdn.net/alkass1/alkass1.m3u8
 
-#EXTINF:-1 tvg-name="Oman TV" group-title="الخليج",تلفزيون سلطنة عمان
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Al Kass 2" group-title="الخليج العربي",قناة الكأس 2 المفتوحة
+https://alkass-live.ercdn.net/alkass2/alkass2.m3u8
+
+#EXTINF:-1 tvg-name="Al Rayyan" group-title="الخليج العربي",قناة الريان الفضائية
+https://alrayyan-live.ercdn.net/alrayyan/live.m3u8
+
+#EXTINF:-1 tvg-name="Oman TV" group-title="الخليج العربي",تلفزيون سلطنة عمان
 https://partw2.omantv.om/live/omantv.m3u8
 
-# ==================== EGYPT ====================
+#EXTINF:-1 tvg-name="Oman Sports" group-title="الخليج العربي",عمان الرياضية
+https://partw2.omantv.om/live/omansports.m3u8
+
+#EXTINF:-1 tvg-name="Oman Cultural" group-title="الخليج العربي",عمان الثقافية
+https://partw2.omantv.om/live/omancultural.m3u8
+
+#EXTINF:-1 tvg-name="Bahrain TV" group-title="الخليج العربي",تلفزيون البحرين
+https://bna-live.ercdn.net/bahraintv/live.m3u8
+
+#EXTINF:-1 tvg-name="Bahrain Sports" group-title="الخليج العربي",البحرين الرياضية
+https://bna-live.ercdn.net/bahrainsports/live.m3u8
+
+# ==================== EGYPT (مصر) ====================
 #EXTINF:-1 tvg-name="Al Oula" group-title="مصر",القناة الأولى المصرية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.maspero.eg/hls/aloula.m3u8
 
 #EXTINF:-1 tvg-name="Al Thanya" group-title="مصر",القناة الثانية المصرية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.maspero.eg/hls/althanya.m3u8
 
 #EXTINF:-1 tvg-name="Nile News" group-title="مصر",قناة النيل للأخبار
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.maspero.eg/hls/nilenews.m3u8
 
-#EXTINF:-1 tvg-name="Nile Drama" group-title="مصر",النيل للدراما
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Nile Drama" group-title="مصر",قناة النيل للدراما
 https://stream.maspero.eg/hls/niledrama.m3u8
 
-# ==================== ARABIC NEWS ====================
-#EXTINF:-1 tvg-name="Al Jazeera" group-title="أخبار عربية",الجزيرة الإخبارية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Nile Cultural" group-title="مصر",قناة النيل الثقافية
+https://stream.maspero.eg/hls/nileculture.m3u8
+
+#EXTINF:-1 tvg-name="Nile Life" group-title="مصر",قناة النيل لايف
+https://stream.maspero.eg/hls/nilelife.m3u8
+
+#EXTINF:-1 tvg-name="Nile Comedy" group-title="مصر",قناة النيل كوميدي
+https://stream.maspero.eg/hls/nilecomedy.m3u8
+
+#EXTINF:-1 tvg-name="Al Qahera News" group-title="مصر",القاهرة الإخبارية
+https://live.alqaheranews.net/hls/live.m3u8
+
+# ==================== ARABIC NEWS (الأخبار العربية الرسمية) ====================
+#EXTINF:-1 tvg-name="Al Jazeera" group-title="أخبار عربية",قناة الجزيرة الإخبارية
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher" group-title="أخبار عربية",الجزيرة مباشر
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
-#EXTINF:-1 tvg-name="Al Arabiya" group-title="أخبار عربية",العربية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Al Jazeera Documentary" group-title="أخبار عربية",الجزيرة الوثائقية
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Arabiya" group-title="أخبار عربية",قناة العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Al Hadath" group-title="أخبار عربية",العربية الحدث
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Al Hadath" group-title="أخبار عربية",قناة الحدث
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sky News Arabia" group-title="أخبار عربية",سكاي نيوز عربية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
-# ==================== KIDS ====================
+#EXTINF:-1 tvg-name="BBC Arabic" group-title="أخبار عربية",بي بي سي عربي
+https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-name="France 24 Arabic" group-title="أخبار عربية",فرانس 24 عربي
+https://f24hls-i.akamaihd.net/hls/live/221193/F24_AR_1100K/master.m3u8
+
+#EXTINF:-1 tvg-name="DW Arabic" group-title="أخبار عربية",دويتشه فيله DW عربية
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+# ==================== KIDS (أطفال) ====================
 #EXTINF:-1 tvg-name="Spacetoon" group-title="أطفال",سبيستون (Spacetoon)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://spacetoon-live.ercdn.net/spacetoon/spacetoon.m3u8
 
 #EXTINF:-1 tvg-name="Majid TV" group-title="أطفال",ماجد للأطفال (Majid TV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://admdn-live.ercdn.net/majid/majid.m3u8
 
 #EXTINF:-1 tvg-name="Jeem TV" group-title="أطفال",تلفزيون ج (Jeem TV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live-hls-web-aje.getaj.net/JEEM/01.m3u8
 
-#EXTINF:-1 tvg-name="Baraem" group-title="أطفال",براعم (Baraem)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Baraem" group-title="أطفال",قناة براعم (Baraem)
 https://live-hls-web-aje.getaj.net/BAR/01.m3u8
 
 #EXTINF:-1 tvg-name="Rawdah TV" group-title="أطفال",قناة روضة للأطفال
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://sba-rawdahtv.ercdn.net/rawdahtv/rawdahtv.m3u8
 
 #EXTINF:-1 tvg-name="Taha TV" group-title="أطفال",قناة طه للأطفال
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.tahatv.com/hls/live.m3u8
 
-# ==================== TURKEY ====================
-#EXTINF:-1 tvg-name="TRT 1" group-title="تركيا",TRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="TRT Cocuk" group-title="أطفال",TRT Çocuk (أطفال تركيا)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+# ==================== TURKEY (تركيا - رسمية ومحترمة) ====================
+#EXTINF:-1 tvg-name="TRT 1" group-title="تركيا",TRT 1 (القناة العامة والمسلسلات)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Haber" group-title="تركيا",TRT Haber
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="TRT Haber" group-title="تركيا",TRT Haber (الإخبارية)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Belgesel" group-title="تركيا",TRT Belgesel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="TRT Belgesel" group-title="تركيا",TRT Belgesel (الوثائقية)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Spor" group-title="تركيا",TRT Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="TRT Spor" group-title="تركيا",TRT Spor (الرياضية)
 https://tv-trtspoor.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT World" group-title="تركيا",TRT World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="TRT Spor Yildiz" group-title="تركيا",TRT Spor Yıldız (ألعاب رياضية)
+https://tv-trtsporyildiz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Muzik" group-title="تركيا",TRT Müzik (موسيقى وفولكلور)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT World" group-title="تركيا",TRT World (إنجليزي)
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT Arabic" group-title="تركيا",TRT العربية
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv-trtarabic.medya.trt.com.tr/master.m3u8
 
-# ==================== USA ====================
+#EXTINF:-1 tvg-name="A Haber" group-title="تركيا",A Haber (الإخبارية)
+https://trkvz-live.ercdn.net/ahaber/ahaber.m3u8
+
+#EXTINF:-1 tvg-name="A Spor" group-title="تركيا",A Spor (الرياضية التركية)
+https://trkvz-live.ercdn.net/aspor/aspor.m3u8
+
+# ==================== USA (أمريكا - عامة وثقافية وإخبارية موثوقة) ====================
 #EXTINF:-1 tvg-name="CBS News" group-title="أمريكا",CBS News 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f13459489432657d42cf38e/master.m3u8
 
 #EXTINF:-1 tvg-name="ABC News Live" group-title="أمريكا",ABC News Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://content.uplynk.com/channel/3324f2467c41432981105030dac22c9e.m3u8
 
 #EXTINF:-1 tvg-name="NBC News NOW" group-title="أمريكا",NBC News NOW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlay/master.m3u8
 
-#EXTINF:-1 tvg-name="NASA TV" group-title="أمريكا",NASA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="NASA TV" group-title="أمريكا",NASA TV (فضاء وعلوم)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-name="Bloomberg US" group-title="أمريكا",Bloomberg TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Bloomberg US" group-title="أمريكا",Bloomberg TV (أعمال واقتصاد)
 https://liveprodupmx.global.ssl.fastly.net/us/justin/bltv_dvr.m3u8
 
-#EXTINF:-1 tvg-name="Weather Channel" group-title="أمريكا",Local Now
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="LiveNOW from FOX" group-title="أمريكا",LiveNOW from FOX
+https://livenow-stitch.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Weather Channel" group-title="أمريكا",Local Now (طقس وأخبار)
 https://weather-localnow-stitch.tubi.video/playlist.m3u8
 
-# ==================== UK ====================
+#EXTINF:-1 tvg-name="C-SPAN 1" group-title="أمريكا",C-SPAN 1 (الكونغرس والشؤون العامة)
+https://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+
+# ==================== UK (بريطانيا - قنوات رسمية محترمة) ====================
 #EXTINF:-1 tvg-name="BBC News" group-title="بريطانيا",BBC News UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-name="Sky News UK" group-title="بريطانيا",Sky News UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://skynews-live.skynews.com/hls/skynews_main.m3u8
 
 #EXTINF:-1 tvg-name="GB News" group-title="بريطانيا",GB News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.gbnews.uk/live/master.m3u8
 
 #EXTINF:-1 tvg-name="Reuters Live" group-title="بريطانيا",Reuters TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://reuters-reutersnow-1-gb.samsung.wurl.tv/playlist.m3u8
